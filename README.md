@@ -41,4 +41,5 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusscarvalho1&show_icons=true&theme=dracula)
+![Matheus Carvalho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusscarvalho1&show_icons=true&theme=dracula)
+![Matheus Carvalho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusscarvalho1&layout=compact&theme=dracula)
