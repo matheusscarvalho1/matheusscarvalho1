@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Matheus, um desenvolvedor full stack apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Matheus, um desenvolvedor front-end apaixonado pelo que faz!</h1>
 <p align="center">
 <a href="https://portfolio-matheusscarvalho.vercel.app"><img src="https://img.shields.io/badge/-portfolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/matheusscarvalho/"><img src="https://img.shields.io/badge/-Matheus%20de%20Souza%20Carvalho-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -12,7 +12,7 @@
 - 👨‍💻 &nbsp; Atuo como Desenvolvedor Fullstack, com 3 anos de experiência em projetos próprios e 1 ano de atuação profissional. Já desenvolvi APIs, sistemas distribuídos, integrações com CRM/ERP e aplicações web e mobile escaláveis, sempre priorizando performance, experiência do usuário e boas práticas de código.
 - 🏢 &nbsp; Atuei como Desenvolvedor Back End na Ginco Urbanismo, responsável por APIs internas com Node.js e Fastify, integrações com serviços externos e documentação com Swagger. Também digitalizei processos internos com Fluig, alcançando ganho de eficiência superior a 50% ao eliminar etapas manuais, e implementei monitoramento de logs das APIs doo aplicativo com Grafana.
 - 💼 &nbsp; Como freelancer na TAV WEB, atuei como Desenvolvedor Front End no desenvolvimento de um sistema de gerenciamento e encaminhamento de documentos com uso de IA. Refatorei páginas críticas, otimizei carregamento de imagens com next/image, adotei Promise.all para chamadas paralelas de APIs, e melhorei a performance geral do sistema em até 25%.
-- 🧠 &nbsp; Gosto de unir a visão do backend com as boas práticas do frontend para construir soluções completas. Minhas principais ferramentas são: TypeScript, React.js, Next.js, Node.js, Tailwind CSS, PostgreSQL e Docker
+- 🧠 &nbsp; Como possuo experiência tanto profissional quanto em projetos pessoas tanto em back-end quanto em front-end gosto de unir a visão do backend com as boas práticas do frontend para construir soluções completas. Minhas principais ferramentas são: TypeScript, React.js, Next.js, Node.js, Tailwind CSS, PostgreSQL e Docker
 - 🎯 &nbsp; Hobbies: No tempo livre, gosto de jogar videogame, sair com os amigos e reunir a galera pra um bom churrasco — com muita risada, claro! Também sou apaixonado por música, sempre estou ouvindo alguma coisa enquanto programo ou relaxo. Esses momentos me ajudam a recarregar as energias e manter o equilíbrio entre a vida pessoal e profissional.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
