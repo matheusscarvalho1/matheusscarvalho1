@@ -19,14 +19,15 @@
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
-![Shadcn](https://img.shields.io/badge/-Shadcnui-333333?style=flat&logo=shadcnui)
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styledcomponents)
+![Shadcn](https://img.shields.io/badge/-Shadcnui-333333?style=flat&logo=shadcnui)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
@@ -35,6 +36,7 @@
 ![Fastify](https://img.shields.io/badge/-Fastify-333333?style=flat&logo=fastify)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Prisma](https://img.shields.io/badge/-PrismaORM-333333?style=flat&logo=prisma)
+![Prisma](https://img.shields.io/badge/-DrizzleORM-333333?style=flat&logo=drizzle)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
