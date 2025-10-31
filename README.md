@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Matheus, um desenvolvedor front-end apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Matheus, um desenvolvedor front-end</h1>
 <p align="center">
 <a href="https://portfolio-matheusscarvalho.vercel.app"><img src="https://img.shields.io/badge/-portfolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/matheusscarvalho/"><img src="https://img.shields.io/badge/-Matheus%20de%20Souza%20Carvalho-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
