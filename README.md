@@ -1,22 +1,44 @@
-<h1>👋 &nbsp;Olá, eu sou o Matheus, um desenvolvedor front-end</h1>
+# 👋 &nbsp;Olá, eu sou o Matheus, um desenvolvedor front-end
+
 <p align="center">
 <a href="https://portfolio-matheusscarvalho.vercel.app"><img src="https://img.shields.io/badge/-portfolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/matheusscarvalho/"><img src="https://img.shields.io/badge/-Matheus%20de%20Souza%20Carvalho-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:matheusdocarvalho@gmail.com"><img src="https://img.shields.io/badge/-matheusdocarvalho@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
+## 👨🏻‍💻 &nbsp;Sobre mim
 
-- 🚀 &nbsp; Meu primeiro contato com a programação veio da curiosidade de entender como as coisas funcionam por trás das telas. Desde pequeno, passei muito tempo no computador ao lado do meu irmão mais velho e jogando videogame e foi essa paixão por games que me levou naturalmente ao mundo da tecnologia. Queria entender como os jogos eram feitos e como cada detalhe funcionava. Hoje, através dessa paixão e curiosidade de saber como as coisas por 'trás' do computador funcionava conheci a area da web, me encontrei e atuo como desenvolvedor web, apaixonado por transformar problemas reais em soluções funcionais por meio do código.
-- 👨‍💻 &nbsp; Atuo como Desenvolvedor Fullstack, com 3 anos de experiência em projetos próprios e 1 ano de atuação profissional. Já desenvolvi APIs, sistemas distribuídos, integrações com CRM/ERP e aplicações web e mobile escaláveis, sempre priorizando performance, experiência do usuário e boas práticas de código.
-- 🏢 &nbsp; Atuei como Desenvolvedor Back End na Ginco Urbanismo, responsável por APIs internas com Node.js e Fastify, integrações com serviços externos e documentação com Swagger. Também digitalizei processos internos com Fluig, alcançando ganho de eficiência superior a 50% ao eliminar etapas manuais, e implementei monitoramento de logs das APIs doo aplicativo com Grafana.
-- 💼 &nbsp; Como freelancer na TAV WEB, atuei como Desenvolvedor Front End no desenvolvimento de um sistema de gerenciamento e encaminhamento de documentos com uso de IA. Refatorei páginas críticas, otimizei carregamento de imagens com next/image, adotei Promise.all para chamadas paralelas de APIs, e melhorei a performance geral do sistema em até 25%.
-- 🧠 &nbsp; Como possuo experiência tanto profissional quanto em projetos pessoas tanto em back-end quanto em front-end gosto de unir a visão do backend com as boas práticas do frontend para construir soluções completas. Minhas principais ferramentas são: TypeScript, React.js, Next.js, Node.js, Tailwind CSS, PostgreSQL e Docker
-- 🎯 &nbsp; Hobbies: No tempo livre, gosto de jogar videogame, sair com os amigos e reunir a galera pra um bom churrasco — com muita risada, claro! Também sou apaixonado por música, sempre estou ouvindo alguma coisa enquanto programo ou relaxo. Esses momentos me ajudam a recarregar as energias e manter o equilíbrio entre a vida pessoal e profissional.
+Sou Desenvolvedor Front-End especializado em React.js, Next.js, TypeScript e JavaScript, com 3 anos de experiência criando interfaces modernas, performáticas e aplicações web escaláveis. Também já atuei e possuo conhecimento no Back-End com Node.js, Fastify e Express, desenvolvendo APIs, integrações corporativas e soluções completas agregando ainda mais na minha experiência.
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
-<h3>💻 &nbsp;Front-end:</h3>
+Tenho domínio avançado em JavaScript, TypeScript, React.js, Next.js e Node.js. Minha experiência inclui APIs REST, microsserviços, UI/UX Design, integrações com CRM/ERP, automações, GA4 e desenvolvimento de plataformas utilizando PostgreSQL, Prisma/Drizzle ORM, Docker, Tailwind CSS, shadcn UI, Material UI, Zod, React Query, React Hook Form, Jest, React Native e Expo.
+
+Em projetos anteriores, implementei APIs internas e automações que aumentaram em 60% a produtividade de equipes, reduzi em até 25% o tempo de carregamento de aplicações e otimizei processos internos em mais de 50%. Trabalho com Clean Code, Gitflow, CI/CD, Agile/Scrum, Kanban, Figma, Swagger, monitoramento com Grafana/Loki e arquitetura modular escalável.
+
+Estou aberto a oportunidades em Front-End e Full Stack, onde posso aplicar minha expertise em React.js, Next.js, Node.js e no desenvolvimento de soluções modernas, performáticas e orientadas à experiência do usuário.
+
+### Experiência Técnica:
+- **React.js & Next.js** - SSR/SSG, Server Components, otimização de performance, criação de design systems e desenvolvimento de interfaces modernas.
+- **TypeScript & JavaScript ES6+** - Tipagem forte e código escalável.
+- **UI/UX Design (Tailwind CSS, shadcn UI, Material-UI (MUI), Radix)** - Interfaces responsivas, rápidas e consistentes.
+- **APIs REST & Integrações** - Promise.all, tratamento de erros, CRM/ERP, automações.
+- **Node.js (Fastify, Express)** - APIs internas, microsserviços e orquestrações.
+- **Prisma & Drizzle (PostgreSQL)** - Modelagem, consultas otimizadas e migrações seguras.
+- **Docker** - Ambientes isolados e deploys consistentes.
+- **Testes (Jest, React Testing Library (RTL))** - Qualidade, cobertura e refatorações seguras.
+- **Observabilidade (Grafana, Loki, GA4)** - Métricas e detecção de gargalos.
+- **Autenticação (JWT, OAuth2, Zod, BetterAuth)** - Segurança, validação e proteção de rotas.
+- **Git, GitFlow & CI/CD** - Versionamento limpo e entregas contínuas.
+
+### Qualidades Pessoais:
+- Comunicação clara e colaboração
+- Foco em UX e atenção aos detalhes
+- Aprendizado rápido e autonomia
+- Organização e resolução de problemas
+- Compromisso com qualidade, performance e boas práticas
+
+## 🛠 &nbsp;Tech Stack
+
+### 💻 &nbsp;Front-end:
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6)
@@ -29,7 +51,7 @@
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styledcomponents)
 ![Shadcn](https://img.shields.io/badge/-Shadcnui-333333?style=flat&logo=shadcnui)
 
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+### ⚙️ &nbsp;Back-end e banco de dados:
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
@@ -41,7 +63,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+## 🚀 &nbsp;Um pouco mais sobre o meu perfil
 
 ![Matheus Carvalho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusscarvalho1&show_icons=true&theme=dracula)
 ![Matheus Carvalho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusscarvalho1&layout=compact&theme=dracula)
