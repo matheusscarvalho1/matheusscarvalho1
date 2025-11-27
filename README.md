@@ -8,7 +8,7 @@
 
 ## 👨🏻‍💻 &nbsp;Sobre mim
 
-Sou Desenvolvedor Front-End especializado em React.js, Next.js, TypeScript e JavaScript, com 3 anos de experiência criando interfaces modernas, performáticas e aplicações web escaláveis. Também já atuei e possuo conhecimento no Back-End com Node.js, Fastify e Express, desenvolvendo APIs, integrações corporativas e soluções completas agregando ainda mais na minha experiência.
+Sou Desenvolvedor Front-End especializado em React.js, Next.js, TypeScript e JavaScript, com 2 anos de experiência criando interfaces modernas, performáticas e aplicações web escaláveis. Também já atuei e possuo conhecimento no Back-End com Node.js, Fastify e Express, desenvolvendo APIs, integrações corporativas e soluções completas agregando ainda mais na minha experiência.
 
 Tenho domínio avançado em JavaScript, TypeScript, React.js, Next.js e Node.js. Minha experiência inclui APIs REST, microsserviços, UI/UX Design, integrações com CRM/ERP, automações, GA4 e desenvolvimento de plataformas utilizando PostgreSQL, Prisma/Drizzle ORM, Docker, Tailwind CSS, shadcn UI, Material UI, Zod, React Query, React Hook Form, Jest, React Native e Expo.
 
