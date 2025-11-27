@@ -1,4 +1,4 @@
-# 👋 &nbsp;Olá — sou Matheus Carvalho, Desenvolvedor Front‑end (React / Next / TypeScript)
+# 👋 &nbsp;Olá — sou Matheus Carvalho, Desenvolvedor Front‑end (React.js / Next.js / TypeScript)
 
 <p align="center">
 Construo interfaces performáticas, acessíveis e escaláveis. Buscando vagas Júnior/Pleno — preferência por Front‑end (remoto).
