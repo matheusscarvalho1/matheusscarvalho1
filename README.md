@@ -25,7 +25,7 @@ Estou aberto a oportunidades em Front-End e Full Stack, onde posso aplicar minha
 - **Banco de Dados / ORM:** PostgreSQL, Prisma, Drizzle, MongoDB
 - **Infra & Deploy:** Docker, Vercel/Netlify, GitHub Actions (CI/CD)
 - **Observabilidade & Métricas:** Grafana, Loki, GA4
-- **Outras:** Git (GitFlow), CI/CD, arquitetura modular, performance optimizations
+- **Outras:** Git (GitFlow), CI/CD, arquitetura modular, otimização de performance.
 
 ### Qualidades Pessoais:
 - Comunicação clara e colaboração
