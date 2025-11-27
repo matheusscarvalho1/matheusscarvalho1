@@ -1,9 +1,9 @@
-# 👋 &nbsp;Olá, eu sou o Matheus, Desenvolvedor Front-end (React/Next)
+# 👋 &nbsp;Olá — sou Matheus Carvalho, Desenvolvedor Front‑end (React / Next / TypeScript)
 
 <p align="center">
-<a href="https://portfolio-matheusscarvalho.vercel.app"><img src="https://img.shields.io/badge/-portfolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/matheusscarvalho/"><img src="https://img.shields.io/badge/-Matheus%20de%20Souza%20Carvalho-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:matheusdocarvalho@gmail.com"><img src="https://img.shields.io/badge/-matheusdocarvalho@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+Construo interfaces performáticas, acessíveis e escaláveis. Buscando vagas Júnior/Pleno — preferência por Front‑end (remoto).
+<br>
+📫 Contato: matheusdocarvalho@gmail.com • https://linkedin.com/in/matheusscarvalho/ • https://portfolio-matheusscarvalho.vercel.app/
 </p>
 
 ## 👨🏻‍💻 &nbsp;Sobre mim
