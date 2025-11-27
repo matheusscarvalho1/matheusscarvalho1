@@ -17,21 +17,19 @@ Em projetos anteriores, implementei APIs internas e automações que aumentaram 
 Estou aberto a oportunidades em Front-End e Full Stack, onde posso aplicar minha expertise em React.js, Next.js, Node.js e no desenvolvimento de soluções modernas, performáticas e orientadas à experiência do usuário.
 
 ### Experiência Técnica:
-- **React.js & Next.js** - SSR/SSG, Server Components, otimização de performance, criação de design systems e desenvolvimento de interfaces modernas.
-- **TypeScript & JavaScript ES6+** - Tipagem forte e código escalável.
-- **UI/UX Design (Tailwind CSS, shadcn UI, Material-UI (MUI), Radix)** - Interfaces responsivas, rápidas e consistentes.
-- **APIs REST & Integrações** - Promise.all, tratamento de erros, CRM/ERP, automações.
-- **Node.js (Fastify, Express)** - APIs internas, microsserviços e orquestrações.
-- **Prisma & Drizzle (PostgreSQL)** - Modelagem, consultas otimizadas e migrações seguras.
-- **Docker** - Ambientes isolados e deploys consistentes.
-- **Testes (Jest, React Testing Library (RTL))** - Qualidade, cobertura e refatorações seguras.
-- **Observabilidade (Grafana, Loki, GA4)** - Métricas e detecção de gargalos.
-- **Autenticação (JWT, OAuth2, Zod, BetterAuth)** - Segurança, validação e proteção de rotas.
-- **Git, GitFlow & CI/CD** - Versionamento limpo e entregas contínuas.
+- Front‑end: React.js, Next.js (SSR/SSG, Server Components), TypeScript, JavaScript ES6+
+- UI / Design System: Tailwind CSS, shadcn UI, Material‑UI (MUI), Radix, Figma
+- Estado & Dados: React Query, React Hook Form, Zod
+- Testes: Jest, Vitest, React Testing Library (RTL)
+- Back‑end & APIs: Node.js (Fastify, Express), REST APIs, autenticação (JWT, OAuth2)
+- Banco de Dados / ORM: PostgreSQL, Prisma, Drizzle, MongoDB
+- Infra & Deploy: Docker, Vercel/Netlify, GitHub Actions (CI/CD)
+- Observabilidade & Métricas: Grafana, Loki, GA4
+- Outras: Git (GitFlow), CI/CD, arquitetura modular, performance optimizations
 
 ### Qualidades Pessoais:
 - Comunicação clara e colaboração
-- Foco em UX e atenção aos detalhes
+- Foco em UX, performance e acessibilidade
 - Aprendizado rápido e autonomia
 - Organização e resolução de problemas
 - Compromisso com qualidade, performance e boas práticas
