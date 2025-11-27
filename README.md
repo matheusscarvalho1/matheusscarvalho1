@@ -1,10 +1,10 @@
 # 👋 &nbsp;Olá — sou Matheus Carvalho, Desenvolvedor Front‑end (React.js / Next.js / TypeScript)
 
-<p align="center">
+
 Construo interfaces performáticas, acessíveis e escaláveis. Buscando vagas Júnior/Pleno — preferência por Front‑end (remoto).
 <br>
 📫 Contato: matheusdocarvalho@gmail.com • https://linkedin.com/in/matheusscarvalho/ • https://portfolio-matheusscarvalho.vercel.app/
-</p>
+
 
 ## 👨🏻‍💻 &nbsp;Sobre mim
 
