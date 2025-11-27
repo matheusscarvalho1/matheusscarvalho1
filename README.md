@@ -1,4 +1,4 @@
-# 👋 &nbsp;Olá, eu sou o Matheus, um desenvolvedor front-end
+# 👋 &nbsp;Olá, eu sou o Matheus, Desenvolvedor Front-end (React/Next)
 
 <p align="center">
 <a href="https://portfolio-matheusscarvalho.vercel.app"><img src="https://img.shields.io/badge/-portfolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
