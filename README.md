@@ -3,7 +3,7 @@
 
 Construo interfaces performáticas, acessíveis e escaláveis. Buscando vagas Júnior/Pleno — preferência por Front‑end (remoto).
 <br><br>
-📫 Contato: matheusdocarvalho@gmail.com • https://linkedin.com/in/matheusscarvalho/ • https://portfolio-matheusscarvalho.vercel.app/
+📫 Contato: matheusdocarvalho@gmail.com • [linkedin.com/in/matheusscarvalho/](https://linkedin.com/in/matheusscarvalho/)• [portfolio-matheusscarvalho.vercel.app/](https://portfolio-matheusscarvalho.vercel.app/) 
 
 
 ## 👨🏻‍💻 &nbsp;Sobre mim
