@@ -37,8 +37,8 @@ Apaixonado por tecnologia e programação :heart:
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
   <img width="" />
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="40" alt="jest logo"  />
-  
 </div>
 
+### Acesse os repositórios no meu perfil para ver mais detalhes dos meus projetos
 
 - Obrigado pela visita!
