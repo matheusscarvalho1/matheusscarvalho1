@@ -33,10 +33,16 @@ Apaixonado por tecnologia e programação :heart:
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
   <img width="" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
+   <img width="" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="40" alt="angular logo" />
   <img width="" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
   <img width="" />
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="40" alt="jest logo"  />
+  <img width="" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" height="40" alt="java logo" />
+  <img width="" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" height="40" alt="spring boot logo" />
 </div>
 
 ### Acesse os repositórios no meu perfil para ver mais detalhes dos meus projetos
